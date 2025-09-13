@@ -1,0 +1,50 @@
+https://codeforces.com/problemset/problem/1903/A
+
+
+//logic is any Array can be sorted if we can swap two minimum two elements of it as many times as needed
+//so if k>=2 the array can always be sorted
+//so just check if k<2 then array is sorted or not else just return yes
+
+
+
+import java.util.*;
+
+public class HalloumiBoxex{
+
+    class Answer{
+        public boolean isSorted(int arr[]){
+            for(int i=0;i<arr.length-1;i++){
+                if(arr[i] > arr[i+1]){
+                    return false;
+                }
+            }
+            return true;
+        }
+        
+        public String fun(int n, int k, int arr[]){
+            if(k==1 && isSorted(arr) == false){
+                return "NO";
+            }
+            return "YES";
+        }    
+    }
+
+    public static void main(String args[]){
+        Scanner sc = new Scanner(System.in);
+        HalloumiBoxex hm = new HalloumiBoxex();
+        //taking inputs
+        int t = sc.nextInt();
+        for(int i=0;i<t;i++){
+            int n = sc.nextInt();
+            int k = sc.nextInt();
+
+            int arr[] = new int[n];
+            for(int j=0;j<n;j++){
+                arr[j] = sc.nextInt();
+            }
+        Answer ans = hm.new Answer();
+        System.out.println(ans.fun(n,k,arr));
+        }
+        
+    }
+} 
