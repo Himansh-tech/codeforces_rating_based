@@ -14,8 +14,8 @@ Rating = 800
 |-----|------------------------------------------------------------------------------|--------|------------------------|
 | 1   | [Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A)                  | - [✅]  | Any array can be sorted if we can swap minimum two eleemnts any number of time            |
 | 2   | [Line Trip](https://codeforces.com/problemset/problem/1901/A)                  | - [✅]  | Solved on 28 Sep 2025   |
-| 3   | [Problem 3](https://codeforces.com/problemset/problem/71/A)                 | - [ ]  | Need to optimize later  |
-| 4   | [Problem 4](https://codeforces.com/problemset/problem/158/A)                | - [ ]  | Pending                 |
+| 3   | [Cover In Water](https://codeforces.com/problemset/problem/1900/A)                 | - [✅]  |  Simple logic solved on 29th sept |
+| 4   | [Problem 4](https://codeforces.com/problemset/problem/158/A)                | - []  | Pending                 |
 | 4   | [Problem 4](https://codeforces.com/problemset/problem/158/A)                | - [ ]  | Pending                 |
 | 4   | [Problem 4](https://codeforces.com/problemset/problem/158/A)                | - [ ]  | Pending                 |
 | 4   | [Problem 4](https://codeforces.com/problemset/problem/158/A)                | - [ ]  | Pending                 |
