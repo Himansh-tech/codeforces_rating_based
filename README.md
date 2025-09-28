@@ -16,7 +16,7 @@ Rating = 800
 | 2   | [Line Trip](https://codeforces.com/problemset/problem/1901/A)                  | - [✅]  | Solved on 28 Sep 2025   |
 | 3   | [Cover In Water](https://codeforces.com/problemset/problem/1900/A)                 | - [✅]  |  Simple logic solved on 29th sept |
 | 4   | [Game With Integers](https://codeforces.com/problemset/problem/1899/A)                | - [✅]  | simple observation                 |
-| 4   | [Problem 4](https://codeforces.com/problemset/problem/158/A)                | - [ ]  | Pending                 |
+| 4   | [Jagged Swaps](https://codeforces.com/problemset/problem/1896/A)                | - [✅]  | didn't get it till end, so;ved by gpt's logic                 |
 | 4   | [Problem 4](https://codeforces.com/problemset/problem/158/A)                | - [ ]  | Pending                 |
 | 4   | [Problem 4](https://codeforces.com/problemset/problem/158/A)                | - [ ]  | Pending                 |
 
