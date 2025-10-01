@@ -17,7 +17,7 @@ Rating = 800
 | 3   | [Cover In Water](https://codeforces.com/problemset/problem/1900/A)                 | - [✅]  |  Simple logic solved on 29th sept |
 | 4   | [Game With Integers](https://codeforces.com/problemset/problem/1899/A)                | - [✅]  | simple observation                 |
 | 4   | [Jagged Swaps](https://codeforces.com/problemset/problem/1896/A)                | - [✅]  | didn't get it till end, so;ved by gpt's logic                 |
-| 4   | [Problem 4](https://codeforces.com/problemset/problem/158/A)                | - [ ]  | Pending                 |
+| 4   | [Doremy's Paint 3](https://codeforces.com/problemset/problem/1890/A)                | - [✅]  | simple observation                 |
 | 4   | [Problem 4](https://codeforces.com/problemset/problem/158/A)                | - [ ]  | Pending                 |
 
 
