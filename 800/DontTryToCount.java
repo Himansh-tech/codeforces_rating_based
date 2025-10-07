@@ -1,3 +1,5 @@
+//https://codeforces.com/problemset/problem/1881/A
+
 import java.util.*;
 public class DontTryToCount {
     public static void main(String[] args) {
