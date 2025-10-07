@@ -1,3 +1,5 @@
+//https://codeforces.com/problemset/problem/1896/A
+
 import java.util.*;
 
 //inititally I did not get, chatgpt gave me logic that
