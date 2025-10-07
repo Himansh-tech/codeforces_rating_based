@@ -1,3 +1,5 @@
+//https://codeforces.com/problemset/problem/1890/A
+
 import java.util.*;
 //simple observation
 //if it has more than two type of number(in array) and their count has difference of more than 1 then no otherwise yes
