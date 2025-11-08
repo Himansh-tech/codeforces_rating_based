@@ -18,7 +18,7 @@ Rating = 800
 | 5   | [Jagged Swaps](https://codeforces.com/problemset/problem/1896/A)             | - [✅]  | Didn't get it till end, solved by GPT's logic |
 | 6   | [Doremy's Paint 3](https://codeforces.com/problemset/problem/1890/A)         | - [✅]  | Simple observation      |
 | 7   | [Don't Try To Count](https://codeforces.com/problemset/problem/1881/A)       | - [✅]  | Just set an upper limit on checking till length |
-| 8   | [Square or Not](https://codeforces.com/problemset/problem/1879/A)            | - [ ]   | Pending review          |
+| 8   | [How Much Does Daytona Cost?](https://codeforces.com/problemset/problem/1878/A)            | - [✅]   | Done          |
 | 9   | [Short Sort](https://codeforces.com/problemset/problem/1873/A)               | - [ ]   | Try sorting minimal swaps |
 | 10  | [Grasshopper on a Line](https://codeforces.com/problemset/problem/1877/A)    | - [ ]   | Simple arithmetic check |
 | 11  | [Do Not Be Distracted!](https://codeforces.com/problemset/problem/1520/A)    | - [ ]   | Character tracking logic |
